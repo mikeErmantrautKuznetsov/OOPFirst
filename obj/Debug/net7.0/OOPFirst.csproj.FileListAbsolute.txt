@@ -1,0 +1,15 @@
+D:\Visual Studio\OOPFirst\bin\Debug\net7.0\OOPFirst.exe
+D:\Visual Studio\OOPFirst\bin\Debug\net7.0\OOPFirst.deps.json
+D:\Visual Studio\OOPFirst\bin\Debug\net7.0\OOPFirst.runtimeconfig.json
+D:\Visual Studio\OOPFirst\bin\Debug\net7.0\OOPFirst.dll
+D:\Visual Studio\OOPFirst\bin\Debug\net7.0\OOPFirst.pdb
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.csproj.AssemblyReference.cache
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.AssemblyInfoInputs.cache
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.AssemblyInfo.cs
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.csproj.CoreCompileInputs.cache
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.dll
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\refint\OOPFirst.dll
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.pdb
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\OOPFirst.genruntimeconfig.cache
+D:\Visual Studio\OOPFirst\obj\Debug\net7.0\ref\OOPFirst.dll
